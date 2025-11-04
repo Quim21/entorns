@@ -1,0 +1,289 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="Pàgina-1" id="TouR0zTd35eSLgTcaKLm">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="moI0xTP8bmAbbUChPJ-r-1" target="moI0xTP8bmAbbUChPJ-r-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-1" value="Inici" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="moI0xTP8bmAbbUChPJ-r-2" target="moI0xTP8bmAbbUChPJ-r-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-2" value="&lt;span id=&quot;docs-internal-guid-24101759-7fff-c51f-a88d-a86c2e4f50a7&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: Arial, sans-serif; color: rgb(51, 51, 51); background-color: rgb(245, 245, 245); font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Et despertes només enmig d&#39;un bosc fosc...&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12pt; font-family: Arial, sans-serif; color: rgb(51, 51, 51); background-color: rgb(245, 245, 245); font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="moI0xTP8bmAbbUChPJ-r-5" target="moI0xTP8bmAbbUChPJ-r-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-5" value="Demanar a l&#39;usuari que prengui una decisió" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-7" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-079cf271-7fff-086d-a92b-014ac548929a&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:12pt;font-family:Arial,sans-serif;color:#333333;background-color:#f5f5f5;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;A) Prens el camí de l&#39;esquerra, on veus una tènue llum parpellejant.&lt;/span&gt;&lt;/p&gt;&lt;/b&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="390" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="moI0xTP8bmAbbUChPJ-r-8" target="moI0xTP8bmAbbUChPJ-r-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="moI0xTP8bmAbbUChPJ-r-8" target="moI0xTP8bmAbbUChPJ-r-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-8" value="A o B" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-10" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-9069c10b-7fff-b3e3-bb82-c16ab2630f38&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot;&gt;&lt;span style=&quot;font-size:12pt;font-family:Arial,sans-serif;color:#333333;background-color:#f5f5f5;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;B) Prens el camí de la dreta, que està cobert de boira espessa.&lt;/span&gt;&lt;/p&gt;&lt;/b&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="390" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_mzDgsEwRsDOJG0kkeHj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="moI0xTP8bmAbbUChPJ-r-11" target="_mzDgsEwRsDOJG0kkeHj-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-11" value="&lt;span id=&quot;docs-internal-guid-66eebcfc-7fff-3ab8-0a02-b59f367075f6&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;T’endinses en la boira. La visibilitat és molt baixa. Després d’una estona, veus una figura encaputxada dreta al costat d’un arbre.&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="450" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="moI0xTP8bmAbbUChPJ-r-21" target="moI0xTP8bmAbbUChPJ-r-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-14" value="&#xa;&lt;b id=&quot;docs-internal-guid-b1fa26ef-7fff-6f22-f10f-50280eb547da&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Camines cap a la llum. Al cap d’uns minuts, arribes a una petita cabana amb una llanterna encesa. Sembla abandonada, però la porta està entreoberta.&lt;/span&gt;&lt;/b&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="445" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-17" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-b3c187a1-7fff-f410-aa3f-fd45b4e3fa91&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;A1)&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; Entres a la cabana.&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="710" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="moI0xTP8bmAbbUChPJ-r-18" target="moI0xTP8bmAbbUChPJ-r-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZa9yEwRjy5H5EBQFO3M-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="moI0xTP8bmAbbUChPJ-r-18" target="XZa9yEwRjy5H5EBQFO3M-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-18" value="A1 o A2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-493" y="730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-20" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-3c0f83e3-7fff-bdd7-4f5b-436014725829&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:12pt;margin-bottom:12pt;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;A2)&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt; Evites la cabana i segueixes pel sender.&lt;/span&gt;&lt;/p&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="670" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="moI0xTP8bmAbbUChPJ-r-14" target="moI0xTP8bmAbbUChPJ-r-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-150" y="500" as="sourcePoint" />
+            <mxPoint x="-453" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-21" value="demanar a l&#39;usuari que pregui una decisió" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-513" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="moI0xTP8bmAbbUChPJ-r-29" target="moI0xTP8bmAbbUChPJ-r-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-24" value="&lt;br&gt;&lt;b id=&quot;docs-internal-guid-b55498d3-7fff-a339-a372-6f3b0593f6a1&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:12pt;margin-bottom:12pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;A dins hi ha una xemeneia apagada, una taula amb un mapa i una motxilla.&lt;/span&gt;&lt;/p&gt;&lt;/b&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-910" y="725" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-26" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-382c0e2a-7fff-0641-0cf7-c12646869c63&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;A1a)&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; Agafes el mapa i la motxilla.&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="960" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QTS3q3qkKRkz-zyxQwGG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="moI0xTP8bmAbbUChPJ-r-27" target="XZa9yEwRjy5H5EBQFO3M-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QTS3q3qkKRkz-zyxQwGG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="moI0xTP8bmAbbUChPJ-r-27" target="QTS3q3qkKRkz-zyxQwGG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-27" value="A1a o A1b" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="960" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="moI0xTP8bmAbbUChPJ-r-24" target="moI0xTP8bmAbbUChPJ-r-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-800" y="815" as="sourcePoint" />
+            <mxPoint x="-800" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-29" value="Demanar a l&#39;usuari que pregui una decisió" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-31" value="&lt;br&gt;&lt;b id=&quot;docs-internal-guid-afb94d91-7fff-645d-7ef6-507d1fe48a60&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;El mapa mostra una sortida del bosc a unes 2 hores al nord. La motxilla té aigua, una llanterna i una corda. Segueixes el mapa, evitant trampes i llops.&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1410" y="1500" width="215" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-33" value="&lt;b id=&quot;docs-internal-guid-afb94d91-7fff-645d-7ef6-507d1fe48a60&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-weight: normal;&quot;&gt;&lt;span data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;rgb(0, 0, 0)&amp;quot;}&quot; style=&quot;forced-color-adjust: none; font-size: 11pt; font-family: Arial, sans-serif; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;🟢 &lt;/span&gt;&lt;span data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;rgb(0, 0, 0)&amp;quot;}&quot; style=&quot;forced-color-adjust: none; font-size: 11pt; font-family: Arial, sans-serif; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Final Fantastic&lt;/span&gt;&lt;span data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;rgb(0, 0, 0)&amp;quot;}&quot; style=&quot;forced-color-adjust: none; font-size: 11pt; font-family: Arial, sans-serif; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;: Escapes del bosc a trenc d’alba. Sobrevius.&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1527.5" y="1630" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-34" value="&#xa;&lt;b id=&quot;docs-internal-guid-adc66e13-7fff-8ae3-00cd-e5795bb3d637&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Investigues el crit pero es una ombra que t’ataca i et mata&lt;/span&gt;&lt;/b&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="1400" width="197" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="moI0xTP8bmAbbUChPJ-r-36" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-5fa041b2-7fff-997b-694d-36964630c41d&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;🔴 &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Final dolent&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;: Mors al bosc.&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="1510" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZa9yEwRjy5H5EBQFO3M-1" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-81f9d903-7fff-f4d2-1636-0dcc1ddb8dc6&quot;&gt;&lt;h4 dir=&quot;ltr&quot; style=&quot;line-height:1.38;margin-top:12pt;margin-bottom:2pt;&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;A1b: Surts sense tocar res&lt;/span&gt;&lt;/h4&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="940" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XZa9yEwRjy5H5EBQFO3M-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZa9yEwRjy5H5EBQFO3M-4" target="XZa9yEwRjy5H5EBQFO3M-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZa9yEwRjy5H5EBQFO3M-4" value="&lt;br&gt;&lt;b id=&quot;docs-internal-guid-06014f72-7fff-7f3a-f864-1cf71a7d79cf&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:12pt;margin-bottom:12pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Segueixes el sender i arribes a un clar amb un pou al centre. Sents veus provinents del pou.&lt;/span&gt;&lt;/p&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="722.5" width="170" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="_mzDgsEwRsDOJG0kkeHj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XZa9yEwRjy5H5EBQFO3M-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-65" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XZa9yEwRjy5H5EBQFO3M-6" value="Demanar a l&#39;usuari que pregui una decisió" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QTS3q3qkKRkz-zyxQwGG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZa9yEwRjy5H5EBQFO3M-9" target="QTS3q3qkKRkz-zyxQwGG-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1013" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XZa9yEwRjy5H5EBQFO3M-9" value="T&#39;equipes amb la motixlla i surts, pero escoltes un crit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1072.5" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QTS3q3qkKRkz-zyxQwGG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QTS3q3qkKRkz-zyxQwGG-4" target="QTS3q3qkKRkz-zyxQwGG-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-610" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QTS3q3qkKRkz-zyxQwGG-4" value="Surts de la cabana i escoltes un crit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QTS3q3qkKRkz-zyxQwGG-8" value="Demanar a l&#39;usuari que pregui una decisió" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QTS3q3qkKRkz-zyxQwGG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QTS3q3qkKRkz-zyxQwGG-11" target="moI0xTP8bmAbbUChPJ-r-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QTS3q3qkKRkz-zyxQwGG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QTS3q3qkKRkz-zyxQwGG-11" target="moI0xTP8bmAbbUChPJ-r-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QTS3q3qkKRkz-zyxQwGG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QTS3q3qkKRkz-zyxQwGG-11" target="QTS3q3qkKRkz-zyxQwGG-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-934" y="1350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QTS3q3qkKRkz-zyxQwGG-11" value="A1a1 o A1b1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="1310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QTS3q3qkKRkz-zyxQwGG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.492;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QTS3q3qkKRkz-zyxQwGG-8" target="QTS3q3qkKRkz-zyxQwGG-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QTS3q3qkKRkz-zyxQwGG-16" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-382c0e2a-7fff-0641-0cf7-c12646869c63&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;A1a1)&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt; Ignores el crit (amb mapa i motxilla)&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1446.25" y="1310" width="287.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QTS3q3qkKRkz-zyxQwGG-17" value="&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;&lt;b&gt;A1a1) &lt;/b&gt;Ignores el crit (sense mapa i motxilla)&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1130" y="1310" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QTS3q3qkKRkz-zyxQwGG-22" value="&lt;br&gt;&lt;b id=&quot;docs-internal-guid-afb94d91-7fff-645d-7ef6-507d1fe48a60&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;span id=&quot;docs-internal-guid-486025a5-7fff-1e9d-39fd-ed7a69d94e22&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Decideixes escapar però no saps on anar&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1042" y="1650" width="215" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QTS3q3qkKRkz-zyxQwGG-24" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-7cb17d50-7fff-5281-64db-daae44356c57&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;&amp;nbsp;🔴 &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Final neutre&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;: No surts mai del bosc&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1072.5" y="1780" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_mzDgsEwRsDOJG0kkeHj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_mzDgsEwRsDOJG0kkeHj-4" target="_mzDgsEwRsDOJG0kkeHj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mzDgsEwRsDOJG0kkeHj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_mzDgsEwRsDOJG0kkeHj-4" target="_mzDgsEwRsDOJG0kkeHj-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mzDgsEwRsDOJG0kkeHj-4" value="A2a o A2b" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="960" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_mzDgsEwRsDOJG0kkeHj-5" value="&lt;span id=&quot;docs-internal-guid-69237a42-7fff-e277-ce7b-a5cbe25951a6&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Una ombra t’arrossega cap a dins. Crides, però ningú et sent.&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="1080" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_mzDgsEwRsDOJG0kkeHj-7" value="&lt;span id=&quot;docs-internal-guid-37393c5f-7fff-68e3-92db-eddc4162ab7e&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Trobes una torre de vigilància abandonada. Des de dalt, veus la sortida del bosc. Hi arribes amb esforç.&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1080" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_mzDgsEwRsDOJG0kkeHj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_mzDgsEwRsDOJG0kkeHj-9" target="_mzDgsEwRsDOJG0kkeHj-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mzDgsEwRsDOJG0kkeHj-9" value="demanar a l&#39;usuari que pregui una decisió" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_mzDgsEwRsDOJG0kkeHj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_mzDgsEwRsDOJG0kkeHj-12" target="_mzDgsEwRsDOJG0kkeHj-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mzDgsEwRsDOJG0kkeHj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_mzDgsEwRsDOJG0kkeHj-12" target="_mzDgsEwRsDOJG0kkeHj-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mzDgsEwRsDOJG0kkeHj-12" value="B1 o B2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_mzDgsEwRsDOJG0kkeHj-14" value="&lt;span id=&quot;docs-internal-guid-d8e5e81b-7fff-4bdc-f23d-61170b05ec5b&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;La figura es gira. No té rostre. En tocar-te, tot es torna negre&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="735" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5mii88k6abwK2wr1U4z3-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_mzDgsEwRsDOJG0kkeHj-16" target="5mii88k6abwK2wr1U4z3-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_mzDgsEwRsDOJG0kkeHj-16" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bb%20style%3D%26quot%3Bfont-weight%3Anormal%3B%26quot%3B%20id%3D%26quot%3Bdocs-internal-guid-7e5213b8-7fff-5aef-b934-38c36e2cde8b%26quot%3B%26gt%3B%26lt%3Bp%20dir%3D%26quot%3Bltr%26quot%3B%20style%3D%26quot%3Bline-height%3A1.38%3Bmargin-top%3A12pt%3Bmargin-bottom%3A12pt%3B%26quot%3B%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A11pt%3Bfont-family%3AArial%2Csans-serif%3Bcolor%3A%23000000%3Bbackground-color%3Atransparent%3Bfont-weight%3A400%3Bfont-style%3Anormal%3Bfont-variant%3Anormal%3Btext-decoration%3Anone%3Bvertical-align%3Abaseline%3Bwhite-space%3Apre%3Bwhite-space%3Apre-wrap%3B%26quot%3B%26gt%3BEnsopegues%20amb%20una%20arrel%20i%20caus.%20En%20aixecar-te%2C%20trobes%20un%20antic%20cartell%20que%20apunta%20cap%20a%20una%20%E2%80%9CSortida%E2%80%9D.%20El%20segueixes.%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Fp%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%20class%3D%26quot%3BApple-interchange-newline%26quot%3B%26gt%3B%22%20style%3D%22text%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221130%22%20y%3D%22500%22%20width%3D%22560%22%20height%3D%22110%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bb%20style%3D%26quot%3Bfont-weight%3Anormal%3B%26quot%3B%20id%3D%26quot%3Bdocs-internal-guid-7e5213b8-7fff-5aef-b934-38c36e2cde8b%26quot%3B%26gt%3B%26lt%3Bp%20dir%3D%26quot%3Bltr%26quot%3B%20style%3D%26quot%3Bline-height%3A1.38%3Bmargin-top%3A12pt%3Bmargin-bottom%3A12pt%3B%26quot%3B%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A11pt%3Bfont-family%3AArial%2Csans-serif%3Bcolor%3A%23000000%3Bbackground-color%3Atransparent%3Bfont-weight%3A400%3Bfont-style%3Anormal%3Bfont-variant%3Anormal%3Btext-decoration%3Anone%3Bvertical-align%3Abaseline%3Bwhite-space%3Apre%3Bwhite-space%3Apre-wrap%3B%26quot%3B%26gt%3BEnsopegues%20amb%20una%20arrel%20i%20caus.%20En%20aixecar-te%2C%20trobes%20un%20antic%20cartell%20que%20apunta%20cap%20a%20una%20%E2%80%9CSortida%E2%80%9D.%20El%20segueixes.%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Fp%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%20class%3D%26quot%3BApple-interchange-newline%26quot%3B%26gt%3B%22%20style%3D%22text%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221130%22%20y%3D%22500%22%20width%3D%22560%22%20height%3D%22110%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bb%20style%3D%26quot%3Bfont-weight%3Anormal%3B%26quot%3B%20id%3D%26quot%3Bdocs-internal-guid-7e5213b8-7fff-5aef-b934-38c36e2cde8b%26quot%3B%26gt%3B%26lt%3Bp%20dir%3D%26quot%3Bltr%26quot%3B%20style%3D%26quot%3Bline-height%3A1.38%3Bmargin-top%3A12pt%3Bmargin-bottom%3A12pt%3B%26quot%3B%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A11pt%3Bfont-family%3AArial%2Csans-serif%3Bcolor%3A%23000000%3Bbackground-color%3Atransparent%3Bfont-weight%3A400%3Bfont-style%3Anormal%3Bfont-variant%3Anormal%3Btext-decoration%3Anone%3Bvertical-align%3Abaseline%3Bwhite-space%3Apre%3Bwhite-space%3Apre-wrap%3B%26quot%3B%26gt%3BEnsopegues%20amb%20una%20arrel%20i%20caus.%20En%20aixecar-te%2C%20trobes%20un%20antic%20cartell%20que%20apunta%20cap%20a%20una%20%E2%80%9CSortida%E2%80%9D.%20El%20segueixes.%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Fp%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%20class%3D%26quot%3BApple-interchange-newline%26quot%3B%26gt%3B%22%20style%3D%22text%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221130%22%20y%3D%22500%22%20width%3D%22560%22%20height%3D%22110%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-5a9a15e0-7fff-a515-bc0a-c40a805bd6c6&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:12pt;margin-bottom:12pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Ensopegues amb una arrel i caus. En aixecar-te, trobes un antic cartell que apunta cap a una “Sortida”. El segueixes.&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="705" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="5mii88k6abwK2wr1U4z3-2" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-4a475dcc-7fff-6ef5-c197-707858b39082&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;A2a)&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; T’assomes al pou.&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="960" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mii88k6abwK2wr1U4z3-3" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-8d8634c8-7fff-8f05-a32c-187586f97bed&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;A2b)&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; L’ignores i continues.&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="960" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mii88k6abwK2wr1U4z3-4" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-7ef37146-7fff-2f96-4188-2ea5a2e4ebf9&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;&amp;nbsp;🔴 &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Final dolent&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;: Desapareixes en la foscor.&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="1160" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mii88k6abwK2wr1U4z3-5" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-cc8b02a1-7fff-bc80-693e-a0e2bc61675d&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;🟢 &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Final bo&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;: Escapes i trobes ajuda.&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1200" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mii88k6abwK2wr1U4z3-6" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-40d78640-7fff-3302-7839-169a4af12a43&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;A1a1)&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; investigar el crit&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="1310" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mii88k6abwK2wr1U4z3-7" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-1cde4c5c-7fff-e74a-28f4-a104099a635a&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;B1)&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; T’hi acostes.&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="710" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mii88k6abwK2wr1U4z3-9" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-f1915640-7fff-24b1-57cd-75a900a886eb&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;B2)&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; T’allunyes lentament.&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="705" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mii88k6abwK2wr1U4z3-10" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-b4b74d24-7fff-b588-98bd-b63455e2b5b0&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;🔴 &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Final Terrorific&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;: Et converteixes en una altra ombra del bosc.&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="815" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mii88k6abwK2wr1U4z3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5mii88k6abwK2wr1U4z3-13" target="5mii88k6abwK2wr1U4z3-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5mii88k6abwK2wr1U4z3-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5mii88k6abwK2wr1U4z3-13" target="5mii88k6abwK2wr1U4z3-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1475" y="1265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5mii88k6abwK2wr1U4z3-13" value="B2a o B2b" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1435" y="1000" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5mii88k6abwK2wr1U4z3-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5mii88k6abwK2wr1U4z3-14" target="5mii88k6abwK2wr1U4z3-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5mii88k6abwK2wr1U4z3-14" value="demanar a l&#39;usuari que pregui una decisió" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1415" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5mii88k6abwK2wr1U4z3-17" value="&lt;span id=&quot;docs-internal-guid-a8dec9a9-7fff-e5b8-7b8a-221aa4fc577f&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Arribes a un vell pont penjant. En creuar-lo, arribes a una carretera.&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1005" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5mii88k6abwK2wr1U4z3-18" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-9239bf6a-7fff-20fc-1ce3-ba3a16286c03&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;B2a)&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; Segueixes el cartell.&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="990" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mii88k6abwK2wr1U4z3-19" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-13c65797-7fff-7772-7970-d9061fe3ae25&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;B2b)&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt; L’ignores i corres en una altra direcció.&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="1200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mii88k6abwK2wr1U4z3-21" value="&lt;span id=&quot;docs-internal-guid-2a539b2e-7fff-1f18-1bba-6b54456cc41a&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Et perds més en la boira. Després d’hores, caus per l’esgotament i el fred.&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1220" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5mii88k6abwK2wr1U4z3-23" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-de8612c1-7fff-8d0d-e211-29671aeb2aae&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;🔴 &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Final neutre&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;: No surts mai del bosc.&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1320" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5mii88k6abwK2wr1U4z3-24" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-5b969d60-7fff-b0f2-23af-c5d3bdd4b4ea&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;🟢 &lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Final bo&lt;/span&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;: Un cotxe et recull. Escapes del bosc.&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1080" width="360" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
