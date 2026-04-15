@@ -42,8 +42,8 @@ Evolucionar el teu personatge recollint energia, evitant perills en un entorn si
 
 - [Idea i abast](docs/01_idea_i_abast.md) - Concepte inicial i planificació
 - [Model del joc](docs/02_model_del_joc.md) - Arquitectura i diagrames UML
-- [Diagrama de classes](docs/diagrames/diagrama_classes.png)
-- [Diagrama de comportament](docs/diagrames/diagrama_comportament.png)
+- [Diagrama de classes](docs/diagrames/Diagrames_classes.png)
+- [Diagrama de comportament](docs/diagrames/Diagrames_comportament.png)
 
 ## Estructura del projecte
 
