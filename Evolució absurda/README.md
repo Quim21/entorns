@@ -4,11 +4,11 @@ Microvideojoc de simulació i progressió per a Roblox.
 
 ## Descripció
 
-Evolució Absurda és un joc on el jugador comença com una forma bàsica (pedra) i evoluciona a través de diferents formes absurdes acumulant energia. Cada evolució desbloqueja noves habilitats úniques.
+**"Evolució Primitiva"** és un joc on el jugador comença com una forma bàsica (pedra) i evoluciona a través de diferents formes absurdes acumulant energia. Cada evolució desbloqueja noves habilitats úniques.
 
 ## Objectiu
 
-Evolucionar el teu personatge recollint energia, evitant perills i interactuant amb altres jugadors en un entorn multijugador simple.
+Evolucionar el teu personatge recollint energia, evitant perills en un entorn simple.
 
 ## Característiques principals
 
@@ -55,22 +55,13 @@ evolucio-absurda/
 └── README.md               # Aquest fitxer
 ```
 
-## Com contribuir
-
-Aquest és un projecte educatiu. Si vols contribuir:
-1. Fes un fork del repositori
-2. Crea una branca per la teva feature (`git checkout -b feature/nova-funcionalitat`)
-3. Commit dels canvis (`git commit -m 'Afegir nova funcionalitat'`)
-4. Push a la branca (`git push origin feature/nova-funcionalitat`)
-5. Obre un Pull Request
-
 ## Llicència
 
 Aquest projecte és amb finalitats educatives.
 
 ## Autor
 
-Projecte desenvolupat com a pràctica de programació de videojocs amb Roblox Studio.
+Quim Perez Boluda.
 
 ---
 
