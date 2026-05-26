@@ -66,4 +66,4 @@ Quim Perez Boluda.
 ---
 
 **Versió**: 0.2.0 (Model del joc)  
-**Última actualització**: Abril 2026
+**Última actualització**: Maig 2026
